@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Daniel!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in piano, running
+- 🌱 I’m currently learning Python and SQL 
+- 📫 my email: chuenlik@hotmail.com
 
 <!---
 daniel1014/daniel1014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
