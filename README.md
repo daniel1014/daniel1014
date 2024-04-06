@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel!
-- 👀 I’m interested in piano, running
-- 🌱 I’m currently studying computing programme and learning Python & SQL 
+- 🌱 I’m currently studying large language model and building applications on top of it. 
+- 👀 I’m interested in piano and running
 - 📫 my email: chuenlik@hotmail.com
 
 <!---
